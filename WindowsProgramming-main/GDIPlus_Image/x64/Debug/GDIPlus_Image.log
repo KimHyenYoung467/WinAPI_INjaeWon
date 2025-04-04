@@ -1,0 +1,6 @@
+﻿  winmain.cpp
+C:\Users\User\Desktop\WindowsProgramming-main\WindowsProgramming-main\GDIPlus_Image\winmain.cpp(91,20): error C3867: 'GDIplus::WndProc': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+C:\Users\User\Desktop\WindowsProgramming-main\WindowsProgramming-main\GDIPlus_Image\winmain.cpp(91,20): error C2440: '=': 'LRESULT (__cdecl GDIplus::* )(HWND,UINT,WPARAM,LPARAM)'에서 'WNDPROC'(으)로 변환할 수 없습니다.
+      C:\Users\User\Desktop\WindowsProgramming-main\WindowsProgramming-main\GDIPlus_Image\winmain.cpp(91,20):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
